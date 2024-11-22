@@ -1,0 +1,11 @@
+Pay Report
+Jeffrey: $840.00
+Brian: $480.00
+Bren: $840.00
+Ashley: $1440.00
+Steph: $0.00
+Lebron: $0.00
+Grace: $0.00
+Hannah: $0.00
+Total Weekly Pay: $900.00
+Total Monthly Pay: $3600.00
